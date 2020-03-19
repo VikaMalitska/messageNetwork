@@ -1,0 +1,5 @@
+.content {
+    grid-template-areas: profile;
+    background-color: rgb(248, 225, 12);
+    height: 500px;
+}

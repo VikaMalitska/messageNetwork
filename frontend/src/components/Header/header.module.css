@@ -1,0 +1,8 @@
+.header {
+    grid-area: header;
+    background-color: rgb(230, 128, 44);
+}
+.header .avatar {
+    width: 5%;
+    height: 100%;
+}

@@ -1,0 +1,15 @@
+.dialogs {
+    display: grid;
+    background-image: url(https://multi-thread.com/wp-content/uploads/2019/04/csm_Header_DIALOG_115e39cf69.jpg);
+    grid-template-columns: 2fr 10fr;
+    height: 500px;
+    font-size: large;
+}
+
+.dialog{
+    padding: 20px;
+}
+.dialog a{
+    text-decoration: none;
+    color: black;
+}
